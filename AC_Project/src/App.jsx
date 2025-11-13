@@ -1,5 +1,5 @@
 import './App.css'
-import LudoGame from './components/ui/Ludo/LudoGame'
+import LudoGame from './components/ui/1_ObjectsAndStates/LudoGame'
 
 function App() {
   
