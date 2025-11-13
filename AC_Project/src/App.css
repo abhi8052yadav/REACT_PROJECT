@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+.box{
+    display: flex;
+    padding: 10%;
+}
+
+.car{
+    margin: 2px;
+}
+
+
