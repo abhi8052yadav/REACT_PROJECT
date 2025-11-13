@@ -1,11 +1,11 @@
 import './App.css'
-import LudoGame from './components/ui/1_ObjectsAndStates/LudoGame'
+import ToDo from './components/toDoApp/ToDo'
 
 function App() {
   
   return (                                 
     <>
-      <LudoGame></LudoGame>
+      <ToDo></ToDo>
     </>
   )
 }
